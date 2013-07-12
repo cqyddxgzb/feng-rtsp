@@ -1,3 +1,6 @@
 [submodule "feng"]
 	path = feng
 	url = git://git.lscube.org/feng
+[submodule "flux"]
+	path = flux
+	url = git://git.lscube.org/flux
