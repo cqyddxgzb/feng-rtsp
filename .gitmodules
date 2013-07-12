@@ -4,3 +4,15 @@
 [submodule "flux"]
 	path = flux
 	url = git://git.lscube.org/flux
+[submodule "netembryo"]
+	path = netembryo
+	url = git://git.lscube.org/netembryo
+[submodule "libnemesi"]
+	path = libnemesi
+	url = git://git.lscube.org/libnemesi
+[submodule "pipes"]
+	path = pipes
+	url = git://git.lscube.org/pipes
+[submodule "theater2"]
+	path = theater2
+	url = git://git.lscube.org/theater2
